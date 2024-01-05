@@ -1,2 +1,3 @@
-# AdventOfCode_2023
- AdventOfCode_2023 by JNJA
+# AdventOfCode2023
+ 
+Have mercy with my Rust code - first time Rustacean
